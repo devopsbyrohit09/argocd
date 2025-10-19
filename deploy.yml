@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: cont1
-        image: rahamshaik/zomatoproject:myzomatoimage
+        image: umredkarrohit09/mydockerproject:myzomatoimage
         ports:
           - containerPort: 80
 ---
